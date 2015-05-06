@@ -1,0 +1,2 @@
+1"Nowy Dzień"&lt;span style=&quot;font-weight: bold;&quot;&gt;Witaj na moim Lekkim Cmsie&lt;/span&gt;"0"top"pl"1"0"0"template.html
+2"USA ?"&lt;img src=&quot;http://www.tothetick.com/wp-content/uploads/2013/08/USAs-Worst-President.png&quot;&gt;"0"side"pl"1"""template.html
